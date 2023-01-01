@@ -311,7 +311,7 @@ const Chat: FunctionComponent = () => {
                   <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
                     <div className="relative">12 Sept 2022</div>
                   </div>
-                  <div className="flex flex-row items-center justify-start gap-[12px] opacity-[0] text-right text-black-100">
+                  <div className="flex flex-row items-center jugot stify-start gap-[12px] opacity-[0] text-right text-black-100">
                     <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
                       <s   <div className="relative text-base font-medium">Jane Doe</div>
                   <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
@@ -329,7 +329,439 @@ const Chat: FunctionComponent = () => {
                   </div>
                 </div>
               </div>
+              </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
             </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img
+                className="relative w-[51px] h-12"
+                alt=""
+                src="/group-12.svg"
+              />
+              <div className="self-stretch flex-1 flex flex-col items-start justify-between">
+                <div className="self-stretch flex flex-row items-center justify-between">
+                  <div className="relative text-base font-medium">
+                    Janet Adebayo
+                  </div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <div className="relative">New</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
+                  <div className="relative">
+                    Hi, i want make enquiries about yo...
+                  </div>
+                  <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
+            <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">
+              <img  </div>
           </div>
           <div className="box-border w-[363px] flex flex-col items-center justify-center py-3 px-6 border-b-[1px] border-solid border-stroke">
             <div className="w-[363px] flex flex-row items-start justify-start gap-[14px]">

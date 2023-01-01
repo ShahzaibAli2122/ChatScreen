@@ -46,6 +46,27 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
+    </Routes>return (
+    <Routes>
+      <Route path="/" element={<Chat />} />
     </Routes>
   );
 }
