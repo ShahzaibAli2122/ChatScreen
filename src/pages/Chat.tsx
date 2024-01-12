@@ -224,6 +224,16 @@ const Chat: FunctionComponent = () => {
                   </div>
                   <div className="flex flex-row items-start justify-start text-right text-xs">
                     <div className="relative">12:55 am</div>
+                  </div> <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div> <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div> <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div> <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
+                  </div> <div className="flex flex-row items-start justify-start text-right text-xs">
+                    <div className="relative">12:55 am</div>
                   </div>
                 </div>
               </div>
