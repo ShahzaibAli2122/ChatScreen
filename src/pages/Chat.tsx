@@ -45,6 +45,8 @@ const Chat: FunctionComponent = () => {
         alt=""
         src="/vector.svg"
       />
+      <h1>hello</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores illum ipsam, explicabo voluptate quibusdam esse eius, qui cumque doloremque eligendi suscipit impedit labore tempore unde fuga provident culpa totam nam.</p>
       <div className="absolute top-[959px] left-[calc(50%_-_136px)] w-[273px] flex flex-row items-center justify-end text-darkslategray font-open-sans">
         <div className="relative leading-[33px] inline-block w-[274px] h-[17px] shrink-0">
           © 2023 MyCentrality. All Rights Reserved.
@@ -61,6 +63,7 @@ const Chat: FunctionComponent = () => {
             <div className="h-[19px] flex flex-row items-center justify-center">
               <div className="relative font-medium inline-block w-14 h-6 shrink-0">
                 Admin
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis, voluptates quasi nulla illo doloribus sunt dolor! Dolorem doloribus nobis deserunt nemo pariatur totam quibusdam libero molestiae iure, ea soluta sapiente!
               </div>
             </div>
           </div>
@@ -69,6 +72,7 @@ const Chat: FunctionComponent = () => {
               <div className="relative font-medium inline-block w-16 h-6 shrink-0">
                 Student
               </div>
+              <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste unde assumenda molestias culpa quas sint voluptas aut voluptates eveniet adipisci natus nobis qui, quaerat earum iusto? Modi sunt iure praesentium!</h1>
             </div>
           </div>
         </div>
