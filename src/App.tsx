@@ -46,48 +46,6 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-      <Route path="/" element={<Chat />} />
-
     </Routes>
   );
 }
