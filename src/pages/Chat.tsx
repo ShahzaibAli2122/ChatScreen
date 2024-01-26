@@ -243,6 +243,12 @@ const Chat: FunctionComponent = () => {
                   </div>
                   <div className="flex flex-row items-center justify-start gap-[12px] opacity-[0] text-right text-black-100">
                     <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
+                      <s   <div className="relative text-base font-medium">Jane Doe</div>
+                  <div className="flex flex-row items-start justify-start opacity-[0] text-black-20">
+                    <div className="relative">12 Sept 2022</div>
+                  </div>
+                  <div className="flex flex-row items-center justify-start gap-[12px] opacity-[0] text-right text-black-100">
+                    <div className="rounded-lg bg-secondary-20 flex flex-row items-start justify-start py-0.5 px-[7px]">
                       <s
                 <div className="self-stretch flex flex-row items-end justify-between text-sm text-black-30">
                   <div className="relative">
